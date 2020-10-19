@@ -1,4 +1,4 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/maury-sonatype-workshop/struts2-rce/depshield.svg)](https://depshield.github.io)
+
 
 ## Exploit Demo for CVE-2017-5638
 
